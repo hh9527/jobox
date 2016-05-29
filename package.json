@@ -1,0 +1,19 @@
+{
+  "name": "jobox",
+  "version": "0.1.0",
+  "description": "box/debox javascript object, support circle reference.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hh9527/jobox.git"
+  },
+  "author": {
+    "name": "huhao",
+    "email": "hh9527@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hh9527/jobox/issues"
+  },
+  "homepage": "https://github.com/hh9527/jobox#readme"
+}
